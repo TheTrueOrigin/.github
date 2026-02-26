@@ -55,7 +55,7 @@ Development starten:
 npx expo start
 ```
 
-Builds für Android können über Expo EAS erstellt werden.
+Builds für Android können über Expo EAS erstellt werden, es ist in den Releases auch eine fertige apk-Datei enthalten.
 Für iOS Standalone Builds wird macOS mit XCode benötigt.
 
 Weitere Details zum Build-Prozess befinden sich im jeweiligen Repository.
