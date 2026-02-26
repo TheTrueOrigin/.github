@@ -21,6 +21,7 @@ Die Datenbank wird von der Community gepflegt und regelmäßig aktualisiert.
 Ablauf:
 
 Mobile App -> Backend API -> Datenbank
+
 Community -> Datenbank -> Backend -> App
 
 ---
